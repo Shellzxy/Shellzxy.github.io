@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication, Wuhan University, 2021-2025
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022 - Sept. 2023 : Research Assistant
+  * School of Information Magagement, Wuhan University
+  * Duties included: translation of documents, literature review, data collection and analysis, research reports writing
+  * Supervisor: Professor [M. Zhang](https://sim.whu.edu.cn/info/1574/13915.htm)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug. 2022 - Aug. 2023 : Member of National College Students' innovation training program
+  * School of Information Magagement, Wuhan University
+  * Theme: Internet Platform; International Discourse; Digital Communication
+  * Duties included: Literature collection, reading, and review; project promotion; data collection; mid-term and final report writing; financial reimbursement
+  * Supervisor: Professor [M. Zhang](https://sim.whu.edu.cn/info/1574/13915.htm)
+
+* Apr. 2023 - Now
+  * School of Journalism and Communication, Wuhan University
+  * Theme: Intelligent Marketing, Algorithmic Personalized Recommendations, Coutry-of-Origin Effect
+  * Supervisor: Tenure-track lecturers[W. Mu](http://journal.whu.edu.cn/intro/faculty/muwl)
+
+* July 2023 - Now
+  * School of Journalism and Communication, Wuhan University
+  * Theme: Misinformation, Information Trust, Heuristic Cues, Mixed-Method Research
+  * Supervisor: Associate Professor[Q. Dong](http://journal.whu.edu.cn/intro/faculty/dongqx)
+     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CiteSpace, VOSviewer
+* Code
+  * MAXQDA
+  * Python
+  * R
+  * Netlogo
+* SPSS, Stata
 
 Publications
 ======
