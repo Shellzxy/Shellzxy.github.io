@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Wuhan, Hubei, China"
-title                    : "Shelly Zhu / Undergraduate Student"
+title                    : "Shelly Zhu"
 title_separator          : "-"
 name                     : &name "Shelly Zhu"
 description              : &description "Hi, nice to meet u ~"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shelly Zhu"
   avatar           : "profile.png"
-  bio              : "Wuhan Univ"
+  bio              : "Wuhan University"
   location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
