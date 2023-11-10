@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shelly Zhu's"
+title: "Shelly Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,7 @@ redirect_from:
 I'm a junior student who majors in Network Communication from [School of Journalism and Communication](http://journal.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
 
 My research interest include computational communication, misinformation, social media and HCI.
+
 
 Education
 ======
