@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Basic Information"
-    url: /bi/
+    url: /publications/
     
   - title: "Research Experience"
     url: /cv/
     
   - title: "Scholarships and Honors"
-    url: /sh/
+    url: /teaching/
