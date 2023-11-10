@@ -36,4 +36,4 @@ Scholarships and Awards
 * Scholarships
   * Wuhan University Outstanding Freshman A Scholarship (5%)
   * Wuhan University Outstanding Student A Scholarship (5%)
-  * Blue Moon Specialized Scholarship (established for research 
+  * Blue Moon Specialized Scholarship (established for research)
