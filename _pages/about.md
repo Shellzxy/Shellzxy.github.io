@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shelly Zhu's academicpages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I'm a junior student from [School of Journalism and Communication](http://journal.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/)
+I'm a junior student who majors in Network Communication from [School of Journalism and Communication](http://journal.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/).My research interest include computational communication, misinformation, social media and HCI.
+
+You can find my [Github](https://github.com/Shellzxy) / [Email](mailto:2021301031032@whu.edu.cn)
 
 
 A data-driven personal website
