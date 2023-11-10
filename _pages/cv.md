@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Communication, Wuhan University, 2021-2025
 
 Research experience
 ======
@@ -36,12 +33,3 @@ Research experience
   * Theme: Misinformation, Information Trust, Heuristic Cues, Mixed-Method Research
   * Supervisor: Associate Professor  [Q. Dong](http://journal.whu.edu.cn/intro/faculty/dongqx)
      
-Skills
-======
-* CiteSpace, VOSviewer
-* Code
-  * MAXQDA
-  * Python
-  * R
-  * Netlogo
-* SPSS, Stata
