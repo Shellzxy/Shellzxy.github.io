@@ -1,6 +1,6 @@
-![image](https://github.com/Shellzxy/Shellzxy.github.io/assets/129870608/0936337b-7b6f-4967-848a-d2a807ea6da8)---
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+---
+permalink:/
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Junior student from [School of Journalism and Communication](http://journal.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/)
+I'm a junior student from [School of Journalism and Communication](http://journal.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/)
 
 
 A data-driven personal website
