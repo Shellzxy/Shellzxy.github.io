@@ -1,10 +1,6 @@
 # main links links
 main:
-  - title: "Basic Information"
-    url: /publications/
-    
+
   - title: "Research Experience"
     url: /cv/
     
-  - title: "Scholarships and Honors"
-    url: /teaching/
