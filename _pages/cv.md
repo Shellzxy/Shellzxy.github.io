@@ -29,12 +29,12 @@ Research experience
 * Apr. 2023 - Now
   * School of Journalism and Communication, Wuhan University
   * Theme: Intelligent Marketing, Algorithmic Personalized Recommendations, Coutry-of-Origin Effect
-  * Supervisor: Tenure-track lecturers[W. Mu](http://journal.whu.edu.cn/intro/faculty/muwl)
+  * Supervisor: Tenure-track lecturers [W. Mu](http://journal.whu.edu.cn/intro/faculty/muwl)
 
 * July 2023 - Now
   * School of Journalism and Communication, Wuhan University
   * Theme: Misinformation, Information Trust, Heuristic Cues, Mixed-Method Research
-  * Supervisor: Associate Professor[Q. Dong](http://journal.whu.edu.cn/intro/faculty/dongqx)
+  * Supervisor: Associate Professor [Q. Dong](http://journal.whu.edu.cn/intro/faculty/dongqx)
      
 Skills
 ======
